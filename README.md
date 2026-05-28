@@ -26,21 +26,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="50" alt="MySql">
 </div>
 
----
-
-### 📚 O que estou estudando no momento:
-- 📱 Desenvolvimento mobile com **Flutter, Kotlin e Swift**
-- 🎨 Front-end com **HTML, CSS e JavaScript**
-- 🖥️ Back-end com **Python e Typescript**
-- ☁️ Integrações com APIs e sistemas IoT (Home Assistant)
-
----
-
-### 📊 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/lu-iza18"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lu-iza18&show_icons+true&theme=dracula&include_all_commits+true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-iza18&layout=compact&langs_count16&theme=dracula"/>
-</div>
-
-
