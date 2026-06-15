@@ -1,6 +1,6 @@
 ## 👋 Oii! Eu sou a Luiza Souza!
 
-🎓 Estudante de Ensino Médio Técnico em TI  
+🎓 Estudante de Sistemas de informação  
 💻 Explorando o mundo do desenvolvimento: front-end, back-end e mobile  
 🚀 Apaixonada por tecnologia, programação e inovação  
 📚 Curto música, carros e livros!  
