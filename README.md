@@ -32,7 +32,7 @@
 ### 📊 Minhas Stats:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lu-izah19&theme=dracula&hide_border=false&locale=pt_br"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=lu-izah19&theme=dracula&hide_border=false&locale=pt_br"/>
 </div>
 
 ---
