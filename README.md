@@ -66,8 +66,8 @@ Fora do código: música, carros, livros, moda e maquiagem — minha [página pe
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lu-izah19&show_icons=true&theme=dracula&hide_border=true&locale=pt_br" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu-izah19&layout=compact&theme=dracula&hide_border=true&locale=pt_br" alt="Top linguagens"/>
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Top linguagens"/>
 </div>
 
 <div align="center">
