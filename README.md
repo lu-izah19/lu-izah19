@@ -10,14 +10,14 @@
 
 ## 💬 Sobre mim
 
-Sou estudante de Sistemas de Informação, técnica em informática, e construo software com foco em resolver problemas de verdade — não só fazer "funcionar". Transito entre front-end, back-end e mobile, e venho me aprofundando em bancos de dados e cibersegurança, inclusive competindo em CTFs (steganografia, análise de tráfego, ataques em JWT).
+Sou estudante de Sistemas de Informação, técnica em informática, e construo software com foco em resolver problemas de verdade — não só fazer "funcionar". Transito entre front-end, back-end e mobile, e venho me aprofundando em bancos de dados e cibersegurança.
 
 Gosto de entender como as coisas funcionam por baixo dos panos, sou detalhista com organização e experiência do usuário, e trato aprendizado contínuo como parte do trabalho, não só uma etapa antes dele.
 
 Fora do código: música, carros, livros, moda e maquiagem — minha [página pessoal](https://luizasouza.eti.br) tem mais sobre meus projetos.
 
 🎓 Sistemas de Informação
-🔐 Estudando cibersegurança e participando de CTFs
+🔐 Estudando cibersegurança
 🌐 Portfólio: [luizasouza.eti.br](https://luizasouza.eti.br)
 
 ---
